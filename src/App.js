@@ -1,10 +1,11 @@
 import React from 'react'
-import ProductApp from './Component/Product/Products/ProductsApp'
+import BudgetingApp from './component/BudgetingApps/BudgetingApp';
+
 
 
 const App = () => {
   return (
-    <ProductApp />
+    <BudgetingApp/>
   )
 }
 
